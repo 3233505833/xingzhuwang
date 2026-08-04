@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-01 00:00:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+**2024.9**: I joined **Baidu Inc.** and started working on search engine user satisfaction and LLM-based evaluation.
