@@ -57,8 +57,3 @@ My recent work focuses on using **LLMs as judges** to better understand whether 
 
 I believe a good evaluation method should answer a direct question: **does the user feel satisfied after searching?**
 
----
-
-### 📰 News
-
-- **2024.9**: I joined **Baidu Inc.** and started working on search engine user satisfaction and LLM-based evaluation.
