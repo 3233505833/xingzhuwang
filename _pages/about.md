@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate at <a href='http://ai.ruc.edu.cn/'>GSAI, RUC</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><i class="fas fa-university"></i> Gaoling School of AI</p> <p>Renmin University of China</p> 
+    <p><i class="fas fa-map-marker-alt"></i> Beijing, China</p> <hr> <div style="text-align: left; margin-top: 10px;"> 
+    <p><i class="fas fa-envelope"></i> wangxingzhu2022<br>@{ruc.edu.cn, gmail.com}</p> <p><i class="fab fa-weixin"></i> 19800393123</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -22,13 +22,43 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+My name is **Xingzhu Wang** (王星竹). My research focuses on **LLM-as-a-Judge**, **Information Retrieval Evaluation**, and **Search Engine User Satisfaction**. Since September 2024, I have joined Baidu Inc., working on practical evaluation problems in real search scenarios.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### 🔬 Research Interests
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests primarily lie in **LLM-as-a-Judge**, **Information Retrieval Evaluation**, and **Search Engine User Satisfaction**:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **LLM-as-a-Judge**:
+  - Using large language models to evaluate search results and user experience
+  - Building reliable and practical LLM-based evaluation methods
+  - Improving the consistency and trustworthiness of automatic evaluation
+
+- **Information Retrieval Evaluation**:
+  - Search engine evaluation
+  - Relevance, usefulness, and result quality evaluation
+  - Evaluation methods for real search scenarios
+
+- **Search Engine User Satisfaction**:
+  - Understanding whether search results truly meet user needs
+  - Modeling user satisfaction in search engines
+  - Studying the relationship between search result quality and user experience
+
+### 🏢 Industry Experience
+
+**🚀 Recent Focus: Search Engine User Satisfaction and LLM-based Evaluation**
+
+Since **September 2024**, I have joined **Baidu Inc.**, working on research related to **search engine evaluation** and **user satisfaction**.
+
+My recent work focuses on using **LLMs as judges** to better understand whether search results satisfy users. I am interested in building evaluation methods that are not only accurate, but also practical and useful in real search engines.
+
+I believe a good evaluation method should answer a direct question: **does the user feel satisfied after searching?**
+
+---
+
+### 📰 News
+
+- **2024.9**: I joined **Baidu Inc.** and started working on search engine user satisfaction and LLM-based evaluation.
