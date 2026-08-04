@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p><i class="fas fa-university"></i> Gaoling School of AI</p> <p>Renmin University of China</p> 
     <p><i class="fas fa-map-marker-alt"></i> Beijing, China</p> <hr> <div style="text-align: left; margin-top: 10px;"> 
-    <p><i class="fas fa-envelope"></i> wangxingzhu2022<br>@{ruc.edu.cn, gmail.com}</p> <p><i class="fab fa-weixin"></i> 19800393123</p>
+    <p><i class="fas fa-envelope"></i> wangxingzhu2022<br>@{ruc.edu.cn, gmail.com}</p> <p><i class="fab fa-weixin"></i> 19800393123</p></div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
