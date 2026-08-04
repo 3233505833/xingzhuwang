@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate at <a href='http://ai.ruc.edu.cn/'>GSAI, RUC</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: xingzhu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><i class="fas fa-university"></i> Gaoling School of AI</p> <p>Renmin University of China</p> 
